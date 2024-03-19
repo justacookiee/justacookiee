@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">I try making cool stuff.</h3>
+<h3 align="center">I try to make cool stuff.</h3>
+<h4 align="left">Machine Learning</h4>
+<h4 align="right">Web Development</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
