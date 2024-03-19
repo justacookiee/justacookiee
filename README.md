@@ -2,7 +2,10 @@
 ## I try to make cool stuff.
 Machine Learning | Web Development | Misc
 --- | --- | ---
+    |     | [DSA](https://github.com/justacookiee/dsa)
+    |     | [Splines](https://github.com/justacookiee/Splines)
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/tejas-binu-04b493230/" target="blank"><img align="center" src="img/linkedin.png" alt="linkedin"  /></a>
+[![LinkedIn](img/linkedin.png)](https://www.linkedin.com/in/tejas-binu-04b493230/)
+</p>
