@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tejas
 ## I try to make cool stuff.
-### Machine Learning | ### Web Development
+### Machine Learning | Web Development
 --- | --- | ---
 
 ## Connect with me:
