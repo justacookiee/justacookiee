@@ -2,8 +2,8 @@
 ## I try to make cool stuff.
 |Machine Learning | Web Development | Misc|
 |--- | --- | ---|
-| |  | [DFS Maze](https://github.com/justacookiee/Maze-using-Randomized-DFS) |
-| |  | [Fractal Trees](https://github.com/justacookiee/Fractal-Trees) |
+| Plant Disease Classification using ResNet50 | Know your Faculty Website | [DFS Maze](https://github.com/justacookiee/Maze-using-Randomized-DFS) |
+| Car Detection System |  | [Fractal Trees](https://github.com/justacookiee/Fractal-Trees) |
 | |  | [Fourier Transform for drawing](https://github.com/justacookiee/Drawing-using-fourier-transform) |
 | |  | [Fourier Series](https://github.com/justacookiee/Fourier-Series) |
 | |  | [Splines](https://github.com/justacookiee/Splines)|
